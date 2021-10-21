@@ -4,7 +4,7 @@ gunicorn==19.4.5
 psycopg2==2.7.3.1
 whitenoise==3.3.1
 certifi==2019.3.9
-babel==2.7.0
+babel==2.9.1
 flask-babel==0.12.2
 flask==1.0.2
 idna==2.8
